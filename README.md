@@ -9,7 +9,7 @@ This is a solution to the  [[Recipe page challenge on Frontend Mentor](https://w
 
 ## Built with:
 
--   HTML, CSS, and JavaScript [Pure].
+-   HTML, CSS, [Pure].
 
 ## Features:
 
